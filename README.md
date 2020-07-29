@@ -16,6 +16,6 @@ On my free time, I study python and things that I like, I usually read so much a
 ## Curiosities about me
 
 - I watch and talk about animes all the time;
-- I started with coding using **Lua**, to make my own open tibia server but I stop the studies for some time because I don't know;
+- I started coding using **Lua**, to create my own open Tibia server, but I stopped studying for some time for no reason;
 - I made some sites for ot servers using php and html + css when I have 13 years old;
 - I really like to help people.
