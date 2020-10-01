@@ -22,4 +22,3 @@ On my free time, I study python and things that I like, I usually read so much a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabianolvs&layout=compact)](https://github.com/Fabianolvs/github-readme-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Fabianolvs&show_icons=true&theme=gruvbox)
