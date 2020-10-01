@@ -9,9 +9,9 @@ On my free time, I study python and things that I like, I usually read so much a
 ## Detailed information
 
 - **Name**: Fabiano Luiz
-- **Age**: 20
+- **Age**: 21
 - **Living in**: Belo Horizonte, MG - Brazil
-- **Stack**: Javascript - React.JS - React Native
+- **Stack**: Javascript - React.JS - React Native - NodeJS - Typescript
 
 ## Curiosities about me
 
