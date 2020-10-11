@@ -1,5 +1,3 @@
-![Alt Text](https://media1.tenor.com/images/a83b88b76aee5b153240e9950d52d53d/tenor.gif)
-
 ## Public information
 
 My name is Fabiano Luiz. I currently live in Belo Horizonte, Brazil and my work is develop mobile applications in Teknisa using React Native.
