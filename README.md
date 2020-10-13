@@ -2,7 +2,7 @@
 
 My name is Fabiano Luiz. I currently live in Belo Horizonte, Brazil and my work is develop mobile applications in Teknisa using React Native.
 
-On my free time, I study python and things that I like, I usually read so much about functional programming but I still don't code in any functional language.
+On my free time, currently ustudying more about functional programming and learning Dlang. I wish that someday I can work with Elixir or Clojure.
 
 ## Detailed information
 
