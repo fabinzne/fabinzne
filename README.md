@@ -1,8 +1,7 @@
 ## Public information
 
-My name is Fabiano Luiz. I currently live in Belo Horizonte, Brazil and my work is develop mobile applications in Teknisa using React Native.
-
-On my free time, currently studying more about functional programming and learning Dlang. I wish that someday I can work with Elixir or Clojure.
+Hello my name is Fabiano Luiz and currently i'm a Fullstack Engineer at CI&T, I'm currently using React and Fastify. I'm currently working with TDD and Component Tests using Cypress, Cucumber and learning more about code quality and best practices for node and react.
+On my free time, currently studying more about tests and reading more about how to make a good code with react.
 
 ## Detailed information
 
