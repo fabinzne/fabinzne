@@ -6,7 +6,7 @@ On my free time, currently studying more about tests and reading more about how 
 ## Detailed information
 
 - **Name**: Fabiano Luiz
-- **Age**: 21
+- **Age**: 22
 - **Living in**: Belo Horizonte, MG - Brazil
 - **Stack**: Javascript - React.JS - React Native - NodeJS - Typescript
 
