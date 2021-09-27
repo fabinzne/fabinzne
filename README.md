@@ -17,5 +17,5 @@ On my free time, currently studying more about tests and reading more about how 
 - I made some sites for ot servers using php and html + css when I have 13 years old;
 - I really like to help people.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabianolvs&layout=compact)](https://github.com/Fabianolvs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabianolvs&layout=compact)](https://github.com/Fabianolvs)
 
