@@ -1,7 +1,10 @@
 ## Public information
 
-Hello my name is Fabiano Luiz and currently i'm a Fullstack Engineer at CI&T, I'm currently using React and Fastify. I'm currently working with TDD and Component Tests using Cypress, Cucumber and learning more about code quality and best practices for node and react.
-On my free time, currently studying more about tests and reading more about how to make a good code with react.
+Hello my name is Fabiano Luiz and currently i'm a Softwarre Engineer at CI&T, I'm currently using React Native and Node.
+I'm currently learning and in love with some ML languages (F# and ReScript).
+If someday I have the opportunity to work with Functional Programming I'll be happy.
+
+I want to some day start to contribuite to open-source community.
 
 ## Detailed information
 
@@ -15,7 +18,6 @@ On my free time, currently studying more about tests and reading more about how 
 - I watch and talk about animes all the time;
 - I started coding using **Lua**, to create my own open Tibia server, but I stopped studying for some time for no reason;
 - I made some sites for ot servers using php and html + css when I have 13 years old;
-- I really like to help people.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabianolvs&layout=compact)](https://github.com/Fabianolvs)
 
