@@ -6,6 +6,8 @@ If someday I have the opportunity to work with Functional Programming I'll be ha
 
 I want to some day start to contribuite to open-source community.
 
+The java on my chart is from react native (I need to remove it)
+
 ## Detailed information
 
 - **Name**: Fabiano Luiz
