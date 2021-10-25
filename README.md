@@ -19,5 +19,5 @@ I want to some day start to contribuite to open-source community.
 - I started coding using **Lua**, to create my own open Tibia server, but I stopped studying for some time for no reason;
 - I made some sites for ot servers using php and html + css when I have 13 years old;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabianolvs&layout=compact)](https://github.com/Fabianolvs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabianolvs&layout=compact)](https://github.com/fabinzne)
 
