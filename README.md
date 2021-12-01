@@ -4,7 +4,7 @@ Hello my name is Fabiano Luiz and currently i'm a Softwarre Engineer at CI&T, I'
 I'm currently learning and in love with some languages (D and Idris).
 If someday I have the opportunity to work with Functional Programming I'll be happy.
 
-I want to some day start to contribuite to open-source community.
+I want to start to contribuite to open-source community.
 
 ## Detailed information
 
