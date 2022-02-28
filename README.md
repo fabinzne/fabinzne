@@ -21,3 +21,13 @@ I want to start to contribuite to open-source community.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabinzne&layout=compact)](https://github.com/fabinzne)
 
+## Current Setup
+
+- Asus prime b450m gaming/br
+- Ryzen 5 3500X
+- GTX 1660 Super OC
+- 16 GB ram 3200HZ
+- 1 TB ssd NVME
+- 500gb ssd SATA
+- 1 TB HDD SATA
+- Dual boot Arch Linux and Windows 10
