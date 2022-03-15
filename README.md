@@ -26,7 +26,7 @@ I want to start to contribuite to open-source community.
 - Asus prime b450m gaming/br
 - Ryzen 5 3500X
 - GTX 1660 Super OC
-- 16 GB ram 3200HZ
+- 16 GB ram 3200Mhz
 - 1 TB ssd NVME
 - 500gb ssd SATA
 - 1 TB HDD SATA
