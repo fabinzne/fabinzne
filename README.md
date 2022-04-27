@@ -17,7 +17,7 @@ I want to start to contribuite to open-source community.
 
 - I watch and talk about animes all the time;
 - I started coding using **Lua**, to create my own open Tibia server, but I stopped studying for some time for no reason;
-- I made some sites for ot servers using php and html + css when I have 13 years old;
+- I made some sites for ot servers using php and html + css when I was 13 years old;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabinzne&layout=compact)](https://github.com/fabinzne)
 
